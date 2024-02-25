@@ -1,0 +1,1 @@
+int gennumseq(int n);

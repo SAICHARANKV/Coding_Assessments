@@ -1,0 +1,10 @@
+#ifndef FLIGHTOPERATORTYPE_HPP
+#define FLIGHTOPERATORTYPE_HPP
+
+enum class FlightOperatorType
+{
+    DOMESTIC,
+    INTERNATIONAL
+};
+
+#endif // FLIGHTOPERATORTYPE_HPP
